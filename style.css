@@ -43,6 +43,21 @@ body {
 
 }
 
+.section-donate-today-div1 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.section-donate-today-div1 h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.section-donate-today-div1 p {
+    color: gray;
+    font-size: 20px;
+}
+
 .donation-amount {
     display: flex;
     margin: 100px 200px;
@@ -72,21 +87,6 @@ body {
     margin-right: 20px;
     padding-left: 10px;
     padding-right: 10px;
-}
-
-.section-donate-today-div1 {
-    text-align: center;
-    margin-top: 100px;
-}
-
-.section-donate-today-div1 h1 {
-    font-size: 50px;
-    font-weight: bold;
-}
-
-.section-donate-today-div1 p {
-    color: gray;
-    font-size: 20px;
 }
 
 #button-2 {
