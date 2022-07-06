@@ -17,7 +17,7 @@ body {
 }
 
 .section-banner p {
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .banner-div1 {
@@ -28,7 +28,7 @@ body {
 }
 
 .button-donate-now {
-    padding: 20px;
+    padding: 25px;
     border-radius: 15px;
     background-color: orangered;
     color: white;
@@ -37,7 +37,7 @@ body {
 
 .anchor-donate-now {
     text-decoration: none;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 700;
     color: white;
 
@@ -55,14 +55,14 @@ body {
 
 .section-donate-today-div1 p {
     color: gray;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .donation-amount {
     display: flex;
-    margin: 100px 200px;
+    margin: 50px 200px;
     padding-left: 150px;
-    padding-right: ;
+
 }
 
 .donation-amount h2 {
@@ -131,7 +131,7 @@ body {
 }
 
 .icon-div1 p {
-    font-size: 20px;
+    font-size: 25px;
     color: gray;
 }
 
@@ -146,7 +146,7 @@ body {
 }
 
 .icon-div2 p {
-    font-size: 20px;
+    font-size: 25px;
     color: gray;
 }
 
@@ -214,7 +214,7 @@ body {
 
 .section-contribute-div1 p {
     color: gray;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .section-contribute-div1 button {
@@ -225,7 +225,7 @@ body {
 
 .section-contribute-div1 button a {
     text-decoration: none;
-    font-size: 20px;
+    font-size: 25px;
     color: white;
 }
 
@@ -247,7 +247,7 @@ body {
 
 .update-text p {
     color: gray;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .update-form {
