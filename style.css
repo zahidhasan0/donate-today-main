@@ -3,18 +3,21 @@ body {
 }
 
 .section-banner {
-    color: rgb(252, 249, 249);
+    color: rgb(238, 235, 235);
     font-weight: lighter;
     text-align: center;
-    background-image: url(images/donation3.jpg);
+    background-image: url(images/baby.jpg);
     background-position: center;
     background-repeat: no-repeat;
+    padding-top: -350px;
 }
 
 .section-banner h1 {
     font-size: 80px;
+}
 
-
+.section-banner p {
+    font-size: 20px;
 }
 
 .banner-div1 {
@@ -96,26 +99,31 @@ body {
     text-align: center;
 }
 
-.donation-amount-2 h4 {
+.donation-amount-2 input {
     text-align: center;
     font-size: 20px;
     font-weight: 600;
+
 }
 
 .donation-amount-2 hr {
-    width: 300px;
+    width: 400px;
     text-align: center;
-    margin-top: -10px;
+    margin-top: 15px;
 }
 
 .section-icon {
     margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .icon-div1 {
     text-align: center;
 
 }
+
+
+
 
 .icon-div1 h1 {
     font-size: 50px;
@@ -159,3 +167,114 @@ body {
 #education {
     background-color: rgb(247, 222, 191);
     margin-left: 10px;
+}
+
+.supportes {
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.supportes-heading {
+    font-size: 50px;
+    font-weight: 900;
+
+}
+
+.supporters-logo-1 {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.supporters-logo-1 img {
+    padding-right: 40px;
+}
+
+.section-contribute {
+    display: flex;
+    margin: 150px 200px;
+}
+
+.section-contribute img {
+    width: 50%;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+
+.section-contribute-div1 {
+    width: 40%;
+    padding-right: 20px;
+}
+
+.section-contribute-div1 h1 {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.section-contribute-div1 p {
+    color: gray;
+    font-size: 20px;
+}
+
+.section-contribute-div1 button {
+    padding: 20px 30px;
+    background-color: orangered;
+    border-radius: 10px;
+}
+
+.section-contribute-div1 button a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.get-update {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.update-text {
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+.update-text h1 {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.update-text p {
+    color: gray;
+    font-size: 20px;
+}
+
+.update-form {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.update-form input {
+    font-size: 25px;
+}
+
+#input-subscribe {
+    color: white;
+    background-color: orangered;
+    padding: 5px 30px;
+    font-size: 25px;
+}
+
+footer {
+    text-align: center;
+    height: 200px;
+    background-color: black;
+    color: white;
+}
+
+.footer-head {
+    color: orangered;
+    font-size: 30px;
+    padding-top: 40px;
+}
